@@ -11,8 +11,13 @@
 ![Snake animation](https://github.com/olive1rax/snk/blob/output/github-contribution-grid-snake.svg)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=olive1rax&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=olive1rax&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=olive1rax&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div>
+  <a href="https://github.com/Caio-sousaFatec">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Caio-sousaFatec&show_icons=true&theme=onedark&count_private=true">
+  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=Caio-sousaFatec&theme=onedark&count_border=false">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-sousaFatec&layout=compact&theme=onedark&count_private=true"><br/>
+
+  
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
