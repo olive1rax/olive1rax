@@ -11,11 +11,10 @@
 ![Snake animation](https://github.com/olive1rax/snk/blob/output/github-contribution-grid-snake.svg)
 
 ## 📊 GitHub Stats:
-<div>
-  <a href="https://github.com/Caio-sousaFatec">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=olive1rax&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=olive1rax&theme=radical&hide_border=false">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olive1rax&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=olive1rax&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=olive1rax&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=olive1rax&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   
 </div>
