@@ -13,9 +13,9 @@
 ## 📊 GitHub Stats:
 <div>
   <a href="https://github.com/Caio-sousaFatec">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Caio-sousaFatec&show_icons=true&theme=onedark&count_private=true">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Caio-sousaFatec&theme=onedark&count_border=false">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-sousaFatec&layout=compact&theme=onedark&count_private=true"><br/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=olive1rax&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=olive1rax&theme=radical&hide_border=false">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olive1rax&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"><br/>
 
   
 </div>
