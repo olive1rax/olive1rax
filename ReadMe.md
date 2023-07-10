@@ -12,6 +12,5 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=olive1rax&theme=radical&hide_border=false)<br/>
-username=olive1rax&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
