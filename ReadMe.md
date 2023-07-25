@@ -2,7 +2,7 @@
 
 <center>
 
-### <img src="https://media.giphy.com/media/l0Iych4GHWMRxci2I/giphy.gif" width="50"> A little more about me...  
+### <img src="secrets/asta-demon.gif" width="50"> A little more about me...  
 
 ```javascript
 const olive1rax = {
