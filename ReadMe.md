@@ -40,10 +40,6 @@ const olive1rax = {
 <a href="https://www.instagram.com/olive1ragoat/" target="_blank">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram) </a>
 
   </div> 
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="/bb.svg" />
-<br />
-</center>
   
   </body>
 <!--
