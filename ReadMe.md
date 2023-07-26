@@ -28,9 +28,7 @@ const olive1rax = {
 <div align="center">
   
   <br />
- <picture>
-  <source srcset="https://raw.githubusercontent.com/olive1rax/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
+  <image src="https://raw.githubusercontent.com/olive1rax/snk/output/github-contribution-grid-snake-dark.svg">
   <br />
 
 
