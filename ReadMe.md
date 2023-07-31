@@ -13,7 +13,7 @@ const olive1rax = {
     React,
     NodeJS
   ],
-  devRole: "Back-end" | "MERN",
+  devRole: "Back-end" | "Oracle DBA",
 
   challenge: "not for now",
 };
