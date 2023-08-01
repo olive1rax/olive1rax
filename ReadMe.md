@@ -22,7 +22,7 @@ const olive1rax = {
 <!--![Screen Shot](imgs/SpaceMan.png) -->
 
 <div align="center"> 
- <a href="https://github.com/olive1rax/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=olive1rax&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Cihat's github stats" /></a>  <a href="https://github.com/olive1rax/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olive1rax&langs_count=10&show_icons=true&&layout=compact&theme=transparent&hide_border=true" /></a> 
+ <a href="https://github.com/olive1rax/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=olive1rax&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&count_private=true" alt="Cihat's github stats" /></a>  <a href="https://github.com/olive1rax/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olive1rax&langs_count=10&show_icons=true&&layout=compact&theme=transparent&hide_border=true&count_private=true" /></a> 
 
  </div>
 <div align="center">
